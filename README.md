@@ -1,6 +1,6 @@
 ## Data Analytics Projects
 
-### [Project 1: CO2 Emission Canada Data Visualization](https://basantadulal.github.io/CO2_Emission_Canada/)
+### [Project 1: CO2 Emission Canada Data Visualization](https://basantadulal.github.io/CO2_Emission_Canada_Dashboard_and_Storytelling/)
 
 This is a project is related to Dashboard Building and Storytelling, which I did during my first semester in Visualization, Leadership and Communication Course.
 - Data Cleansing was done using Tableaue Prep Builder
@@ -10,7 +10,7 @@ This is a project is related to Dashboard Building and Storytelling, which I did
 - Use of Data Narrative and Story from the data was presented
 
 
-### [Project 2: Use of SQL to Answer Business Questions](https://basantadulal.github.io/Use-of-SQL/)
+### [Project 2: Use of SQL to Answer Business Questions](https://basantadulal.github.io/Use_of_SQL_to_Answer_Business_Questions/)
 
 This was a group assignment which I did in my Data Analytics tool course. In this assignemt we were given a video game sales dataset which need to be imported in SQL server to answer some business questions. Following tasks were performed to complete this assignment:
 - Dataset was imported to SQL server
