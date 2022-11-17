@@ -21,7 +21,7 @@
 
 ## Data Analytics Projects
 
-### [Project 1: CO2 Emission Canada Data Visualization](https://github.com/BasantaDulal/CO2_Emission_Canada)
+### [Project 1: CO2 Emission Canada Data Visualization](https://basantadulal.github.io/CO2_Emission_Canada/)
 
 This is a project is related to Dashboard Building and Storytelling, which I did during my first semester in Visualization, Leadership and Communication Course.
 - Data Cleansing was done using Tableaue Prep Builder
