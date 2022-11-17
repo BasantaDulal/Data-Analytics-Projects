@@ -31,7 +31,7 @@ This is a project is related to Dashboard Building and Storytelling, which I did
 - Use of Data Narrative and Story from the data was presented
 
 
-### [Project 2: Use of SQL to Answer Business Questions](https://github.com/BasantaDulal/Use-of-SQL)
+### [Project 2: Use of SQL to Answer Business Questions](https://basantadulal.github.io/Use-of-SQL/)
 
 This was a group assignment which I did in my Data Analytics tool course. In this assignemt we were given a video game sales dataset which need to be imported in SQL server to answer some business questions. Following tasks were performed to complete this assignment:
 - Dataset was imported to SQL server
